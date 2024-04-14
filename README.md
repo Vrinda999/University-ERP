@@ -1,10 +1,12 @@
 # Student-Dashboard
 
 ### Home Page
-![image](https://github.com/Vrinda999/University-ERP/assets/98251856/4cd38c90-0f42-402f-81c7-5224e960dc06)
+![image](https://github.com/Vrinda999/University-ERP/assets/98251856/0ccd07be-961e-465c-9988-c84693299d8b)
+
 
 ### Subject Page
-![image](https://github.com/Vrinda999/University-ERP/assets/98251856/06546b87-c9f6-4884-afd8-3067d6150457)
+![image](https://github.com/Vrinda999/University-ERP/assets/98251856/44b02ac0-6e42-4e04-a6b8-789e996c20f2)
+
 
 ### Timetable
-![image](https://github.com/Vrinda999/University-ERP/assets/98251856/8524723b-c4a6-4f98-bb3a-efd1c31dc973)
+![image](https://github.com/Vrinda999/University-ERP/assets/98251856/3ec2aed8-8539-435a-8b50-87c12a74f71f)
