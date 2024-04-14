@@ -39,6 +39,7 @@ body{
     user-select: none;
     overflow-x: hidden;
     color: var(--color-dark);
+    padding-bottom: 30px;
 }
 *{
     color: var(--color-dark);
