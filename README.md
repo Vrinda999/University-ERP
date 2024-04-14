@@ -10,3 +10,7 @@
 
 ### Timetable
 ![image](https://github.com/Vrinda999/University-ERP/assets/98251856/3ec2aed8-8539-435a-8b50-87c12a74f71f)
+
+
+### Exam Schedule
+![image](https://github.com/Vrinda999/University-ERP/assets/98251856/9eae9f5d-db08-4385-9bd7-daca8c580287)
